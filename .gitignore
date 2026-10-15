@@ -1,0 +1,10 @@
+# Local third-party repository links
+/Awesome-ML-SYS-Tutorial
+/awesome-production-machine-learning
+/mojo-gpu-puzzles
+/agentic-api
+/Awesome-LLM-Inference
+/KV-Cache/NeurIPS2026-AMS/AdaptiveMassSegment
+**/__pycache__/
+*.pyc
+.DS_Store

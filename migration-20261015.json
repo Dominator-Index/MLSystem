@@ -1,0 +1,53 @@
+{
+  "old_root": "/usr/commondata/public/hf_hub/cc/awesome-exploration-rl/ML-Systems",
+  "new_root": "/usr/data/MLSystem",
+  "workspace_symlink": "/usr/commondata/public/hf_hub/cc/awesome-exploration-rl/ML-Systems",
+  "preserved_existing_files": {
+    "transformers/special_tokens/special_tokens.zh-CN.md": "10a86dd459c1f1a76437388f362b4dec8608d7c03e7e9f94964b703ecbf38122",
+    "transformers/special_tokens/special_tokens.en.md": "99ab10643ec566622d031b7d323c53f81c28f10e6d7e5bf690262740ec5fac32"
+  },
+  "source_inventory": [
+    {
+      "path": "Awesome-ML-SYS-Tutorial",
+      "type": "symlink",
+      "target": "/usr/data/Awesome-ML-SYS-Tutorial"
+    },
+    {
+      "path": "awesome-production-machine-learning",
+      "type": "symlink",
+      "target": "/usr/data/awesome-production-machine-learning"
+    },
+    {
+      "path": "mojo-gpu-puzzles",
+      "type": "symlink",
+      "target": "/usr/data/mojo-gpu-puzzles"
+    },
+    {
+      "path": "agentic-api",
+      "type": "symlink",
+      "target": "/usr/data/agentic-api"
+    },
+    {
+      "path": "Awesome-LLM-Inference",
+      "type": "symlink",
+      "target": "/usr/data/Awesome-LLM-Inference"
+    },
+    {
+      "path": "MLSystem",
+      "type": "symlink",
+      "target": "/usr/data/MLSystem"
+    },
+    {
+      "path": "KV-Cache/NeurIPS2026-AMS/paper.pdf",
+      "type": "file",
+      "bytes": 1900593
+    },
+    {
+      "path": "KV-Cache/NeurIPS2026-AMS/AdaptiveMassSegment",
+      "type": "symlink",
+      "target": "/usr/data/AdaptiveMassSegment"
+    }
+  ],
+  "paper_sha256": "c1d6d3112fde78fc3b13110f6c27904147cdbf9d99a4cb59d1ae051b6a5c177f",
+  "self_reference_removed": "Old ML-Systems/MLSystem already pointed to this same repository; no data removed."
+}
