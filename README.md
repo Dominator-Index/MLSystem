@@ -22,6 +22,6 @@
 
 仓库实际位于`/usr/data/MLSystem`；工作区`awesome-exploration-rl/ML-Systems`软链接指向整个仓库。
 
-第三方代码库均保留在`/usr/data`，通过本机软链接访问，不嵌套提交到本仓库。公开入口使用上表的GitHub链接；本机路径映射见[local-links.json](local-links.json)。
+第三方代码库均保留在`/usr/data`，通过本机软链接访问，不嵌套提交到本仓库。公开入口使用上表的GitHub链接；本机路径映射见`local-links.json`（本地文件）。
 
-2026-10-15迁移保留了已有中英文special tokens笔记及AMS原始PDF。原`ML-Systems/MLSystem`仅是指向本仓库的冗余入口，已在合并时去除，避免仓库内部指向自身。迁移与文件校验记录见[migration-20261015.json](migration-20261015.json)。
+2026-10-15迁移保留了已有中英文special tokens笔记及AMS原始PDF。原`ML-Systems/MLSystem`仅是指向本仓库的冗余入口，已在合并时去除，避免仓库内部指向自身。迁移与文件校验记录见`migration-20261015.json`（本地文件）。
